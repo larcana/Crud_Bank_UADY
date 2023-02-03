@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": "ee222c13-5253-4f66-bfbc-8ac3e251fb40",
+      "name": "Dominica",
+      "cuentas": [
+        {
+          "folio": "fxyxe7ALa",
+          "saldo": 1729,
+          "password": "fljkajsnklwoeri"
+        },
+        {
+          "folio": "Uo03dypmn",
+          "password": "PH6ErmCbtEjOSL8",
+          "saldo": 3281
+        },
+        {
+          "folio": "SiABlQL0V",
+          "password": "lw4BLdSg1SZ7hal",
+          "saldo": 7753
+        }
+      ]
+    },
+    {
+      "id": "fc39e1ec-5b26-479e-ade7-20770a1cee32",
+      "name": "Candide",
+      "cuentas": [
+        {
+          "folio": "Fr86uKhR7",
+          "password": "zyi3WQX6gQ0Bhv9",
+          "saldo": 411
+        }
+      ]
+    },
+    {
+      "id": "f35c41b1-ba51-4bcf-9b81-050dc170a95c",
+      "name": "Cindie",
+      "cuentas": [
+        {
+          "folio": "j8YF13iyy",
+          "password": "BcqtAP6hfxjZqmL",
+          "saldo": 1736
+        }
+      ]
+    },
+    {
+      "id": "f593074a-4e30-4f34-961f-cf2f277a962c",
+      "name": "Emera",
+      "cuentas": [
+        {
+          "folio": "6DAQSEjWh",
+          "password": "ei6s6UUiYpZJ31r",
+          "saldo": 4961
+        }
+      ]
+    },
+    {
+      "id": "9f6ccce2-70f1-4751-b2a6-528af28c7597",
+      "name": "Tuesday",
+      "cuentas": [
+        {
+          "folio": "qYvYVKqXE",
+          "password": "QbHJnwmXnKb2bJH",
+          "saldo": 8206
+        }
+      ]
+    },
+    {
+      "id": "346f016e-68ad-4985-991d-cbb0c5d6341f",
+      "name": "Saba",
+      "cuentas": [
+        {
+          "folio": "6ICsTkXUg",
+          "password": "5VBwgNnbJ3Cl83O",
+          "saldo": 6643
+        }
+      ]
+    }
+  ]
+}
